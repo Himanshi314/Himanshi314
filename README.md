@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Himanshi Pal</h1>
+<h1 align="center">Bonjour 👋, I'm Himanshi Pal!</h1>
 <h3 align="center">A student at Manipal University Jaipur, pursuing a B.Tech in Computer Science Engineering with a specialization in AIML. I'm graduating in 2028. I'm also a member of MUJ's ACM Club, contributing to the Projects and Research team in SIGAI as a junior working member.</h3>
 
 - 🔭 I’m currently working on **1. Video cleaner**
