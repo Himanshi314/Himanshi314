@@ -17,8 +17,8 @@ Currently, I'm a member of **SIGAI - Projects & Research (PnR) Team** at **ACM M
 
 | **Category**          | **Technologies** |
 |----------------------|----------------|
-| **Languages**       | Python, C++, Java |
-| **AI/ML**          | TensorFlow, PyTorch, OpenCV, scikit-learn |
+| **Languages**      | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) |
+| **AI/ML**         | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![scikit-learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) |
 
 ## 📂 Projects  
 
