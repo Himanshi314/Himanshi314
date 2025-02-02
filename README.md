@@ -1,8 +1,21 @@
-# Bonjour, I'm Himanshi! 👋  
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Bonjour, I'm Himanshi !  
 
 ## 🚀 About Me  
-I'm a Computer Science Engineering student at **Manipal University Jaipur**, specializing in **AI & Machine Learning**, graduating in 2028.  
-Currently, I'm a member of **SIGAI - Projects & Research (PnR) Team** at **ACM MUJ**.  
+**-Student at Manipal University Jaipur**  
+**-Member of SIGAI - Projects & Research Team**  
+**-Passionate about AI/ML & Open Source**  
+
+![GitHub followers](https://img.shields.io/github/followers/Himanshi314?style=social)  
+![GitHub stars](https://img.shields.io/github/stars/Himanshi314?style=social)  
+![](https://komarev.com/ghpvc/?username=Himanshi314&color=blue)  
+
+---
+
+## ⚡ GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Himanshi314&show_icons=true&theme=radical)
+
+---
+
 
 ### 💻 What I'm Up To 
 - Exploring AI/ML and Computer Vision 
