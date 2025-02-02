@@ -1,8 +1,8 @@
 # Bonjour, I'm Himanshi! 👋  
 
 ## 🚀 About Me  
-I'm a Computer Science Engineering student at **Manipal University Jaipur**, specializing in **AI & Machine Learning** (Class of 2028).  
-Currently, I'm an active member of **SIGAI - Projects & Research (PnR) Team** at **ACM MUJ**.  
+I'm a Computer Science Engineering student at **Manipal University Jaipur**, specializing in **AI & Machine Learning**, graduating in 2028.  
+Currently, I'm a member of **SIGAI - Projects & Research (PnR) Team** at **ACM MUJ**.  
 
 ### 💻 What I'm Up To 
 - Exploring AI/ML and Computer Vision 
@@ -11,7 +11,20 @@ Currently, I'm an active member of **SIGAI - Projects & Research (PnR) Team** at
 
 ### 🌱 Currently Learning  
 - Deep Learning & Generative AI  
-- C++ 
+- C++
+
+## 💻 Tech Stack  
+
+| **Category**          | **Technologies** |
+|----------------------|----------------|
+| **Languages**       | Python, C++, Java |
+| **AI/ML**          | TensorFlow, PyTorch, OpenCV, scikit-learn |
+
+## 📂 Projects  
+
+| **Project Name**        | **Description** | **Tech Stack** | **Status** |
+|----------------------|----------------|----------------|-----------|
+| AI-Powered Image Enhancer | Enhances low-light images using deep learning | Python, OpenCV, TensorFlow | 🚧 In Progress |
 
 ### ⚡ Fun Fact  
 Coffee is my code fuel! :) 
