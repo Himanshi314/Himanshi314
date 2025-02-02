@@ -2,7 +2,7 @@
 
 ## 🚀 About Me  
 **-Student at Manipal University Jaipur(class of 2028)**  
-**-Member of SIGAI - Projects & Research Team**  
+**-Member of ACM MUJ SIGAI - Projects & Research Team**  
 **-Passionate about AI/ML & Open Source**  
 
 ![GitHub followers](https://img.shields.io/github/followers/Himanshi314?style=social)  
