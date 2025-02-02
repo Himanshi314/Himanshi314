@@ -5,16 +5,16 @@ I'm a Computer Science Engineering student at **Manipal University Jaipur**, spe
 Currently, I'm an active member of **SIGAI - Projects & Research (PnR) Team** at **ACM MUJ**.  
 
 ### 💻 What I'm Up To 
-- 🧠 Exploring AI/ML and Computer Vision 
-- 📌 Contributing to Open Source & Research Projects  
-- 🚀 Building cool projects and learning new tech  
+- Exploring AI/ML and Computer Vision 
+- Contributing to Open Source & Research Projects  
+- Building cool projects and learning new tech  
 
 ### 🌱 Currently Learning  
 - Deep Learning & Generative AI  
 - C++ 
 
 ### ⚡ Fun Fact  
-I started coding before I even knew what a semicolon does! 😆  
+Coffee is my code fuel! :) 
 
 ---
 
