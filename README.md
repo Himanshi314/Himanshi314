@@ -24,7 +24,7 @@ Currently, I'm a member of **SIGAI - Projects & Research (PnR) Team** at **ACM M
 
 | **Project Name**        | **Description** | **Tech Stack** | **Status** |
 |----------------------|----------------|----------------|-----------|
-| AI-Powered Image Enhancer | Enhances low-light images using deep learning | Python, OpenCV, TensorFlow | 🚧 In Progress |
+| Video Cleaner | Enhances low-light videos using deep learning | Python, OpenCV, TensorFlow | 🚧 In Progress |
 
 ### ⚡ Fun Fact  
 Coffee is my code fuel! :) 
