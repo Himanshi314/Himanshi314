@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Bonjour, I'm Krish !  
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Bonjour, I'm Himanshi !  
 
 ## 🚀 About Me  
 **-Student at Manipal University Jaipur(class of 2028)**  
