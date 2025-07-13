@@ -1,11 +1,13 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Bonjour, I'm Himanshi !  
 
 ## 🚀 About Me  
-**-Student at Manipal University Jaipur(class of 2028)**  
-**-Member of ACM MUJ SIGAI - Projects & Research Team (2024-2025)**  
-**-Team Head of Web Development at MUJ ACM Student Chapter (2025-2026)** 
-**-Passionate about Machine Learning and entrpreneurship**  
-**-I Love to Love**
+
+**- Student at Manipal University Jaipur (Class of 2028)**  
+**- Member of ACM MUJ SIGAI – Projects & Research Team (2024–2025)**  
+**- Team Head of Web Development at MUJ ACM Student Chapter (2025–2026)**  
+**- Passionate about Machine Learning and Entrepreneurship**  
+**- I Love to Love**
+
 
 ![GitHub followers](https://img.shields.io/github/followers/Himanshi314?style=social)  
 ![GitHub stars](https://img.shields.io/github/stars/Himanshi314?style=social)  
