@@ -3,7 +3,7 @@
 ## 🚀 About Me  
 **-Student at Manipal University Jaipur(class of 2028)**  
 **-Member of ACM MUJ SIGAI - Projects & Research Team (2024-2025)**  
-**-Team Head of Web Development at MUJ ACM Student Chapter (2025-2026)**
+**-Team Head of Web Development at MUJ ACM Student Chapter (2025-2026)** 
 **-Passionate about Machine Learning and entrpreneurship**  
 **-I Love to Love**
 
@@ -25,7 +25,7 @@
 - Building cool projects and learning new tech  
 
 ### 🌱 Currently Learning  
-- Mchine Learning
+- Machine Learning
 
 ## 💻 Tech Stack  
 
