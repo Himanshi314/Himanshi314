@@ -3,10 +3,10 @@
 ## 🚀 About Me  
 
 **- Student at Manipal University Jaipur (Class of 2028)**  
-**- Member of ACM MUJ SIGAI – Projects & Research Team (2024–2025)**  
+**- Member of ACM MUJ SCHAP – Projects & Research Team (2024–2025)**  
 **- Team Head of Web Development at MUJ ACM Student Chapter (2025–2026)**  
 **- Passionate about Machine Learning and Entrepreneurship**  
-**- I Love to Love**
+
 
 
 ![GitHub followers](https://img.shields.io/github/followers/Himanshi314?style=social)  
@@ -42,12 +42,14 @@
 
 | **Project Name**        | **Description** | **Tech Stack** | **Status** |
 |----------------------|----------------|----------------|-----------|
-| Video Cleaner | Enhances low-light videos using deep learning | Python, OpenCV, TensorFlow | ✅  |
+| SWASTHYAAI | AI-powered rural healthcare platform enabling 10-minute medical equipment rentals by connecting nearby hospitals with local communities, using AI for demand prediction, routing, and triage support | AWS, Python, FastAPI, AI/ML, DynamoDB, S3, Bedrock | 🚧 In Progress |
+| Misinformation Detector | Real-time multimodal AI that verifies spoken claims against live visual input with explainable verdicts | Python, YOLOv8, Whisper, FastAPI | ✅ |
+| Video Cleaner | Enhances low-light videos using deep learning | Python, OpenCV, TensorFlow | ✅ |
 | Plante | Vibe based Plant selling Website | HTML, CSS, JS, FastAPI | ✅ |
 | ORIVO | A service based educational platform | Tailwind CSS, FastAPI | 🚧 In Progress |
 
 ### ⚡ Fun Fact  
-Coffee is my code fuel! :) 
+Love to lovee 
 
 ---
 
