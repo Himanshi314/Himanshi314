@@ -3,7 +3,7 @@
 ## 🚀 About Me  
 
 **- Student at Manipal University Jaipur (Class of 2028)**  
-**- Member of ACM MUJ SCHAP – Projects & Research Team (2024–2025)**  
+**- Team Head of Web Development at MUJ ACM Student Chapter (2025–2026)**  
 **- Team Head of Web Development at MUJ ACM Student Chapter (2025–2026)**  
 **- Passionate about Machine Learning and Entrepreneurship**  
 
