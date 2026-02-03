@@ -4,7 +4,7 @@
 
 **- Student at Manipal University Jaipur (Class of 2028)**  
 **- Team Head of Web Development at MUJ ACM Student Chapter (2025–2026)**  
-**- Team Head of Web Development at MUJ ACM Student Chapter (2025–2026)**  
+**- Member of Junior Working Team in Projects and Reaearch at MUJ ACM SIGAI(2024–2025)**  
 **- Passionate about Machine Learning and Entrepreneurship**  
 
 
