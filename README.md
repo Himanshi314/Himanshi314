@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Himanshi%20Pal&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%7C%20Full%20Stack%20%7C%20Systems%20Builder&descAlignY=55&descAlign=50"/>
 </p>
 
-<h3 align="center">⚡ AI/ML Engineer • Full Stack Developer • Building Real-World Intelligent Systems</h3>
+<h3 align="center"> • Full Stack Developer •</h3>
 
 ---
 
