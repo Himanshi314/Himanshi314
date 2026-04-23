@@ -12,7 +12,7 @@
 - 🎓 B.Tech CSE (AI/ML), Manipal University Jaipur  
 - 🏗️ Focused on **building scalable AI-powered systems**  
 - 🚀 Founder of **ORIVO** (EdTech + startup networking platform)  
-- ⚡ Strong in **system design, backend architecture, and applied ML**  
+- ⚡ Strong in **Frontend, backend architecture**  
 - 🎯 Interested in **real-world problem solving using AI + distributed systems**  
 
 ---
@@ -81,7 +81,7 @@
 ---
 
 <p align="center">
-  ⚡ <i>Building intelligent systems that actually solve real problems</i>
+  ⚡ <i>Love to Love</i>
 </p>
 
 
